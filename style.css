@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(248, 248, 248, 0.9);
+  margin: auto;
+  border: 3px;
+  text-align: center;
+  padding: 30px 150px;
+  width: 600px;
+  border-radius: 3px solid blue;
+}
+
+html {
+  background-image: url(images/boardBackground.jpg);
+}
+html {
+  background-color: rgb(241, 251, 251);
+}
+#Yellow {
+  color: rgb(253, 214, 03);
+}
+#blue {
+  color: rgb(4, 4, 235);
+}
+#red {
+  color: rgb(245, 35, 35);
+}
+
+h1 {
+  background-color: rgb(0, 0, 0);
+  opacity: 100%;
+
+  color: aliceblue;
+  border: 1px solid black;
+  border-radius: 30px;
+  font-size: 50px;
+}
+p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.font {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
+
+.Kavivanar {
+  font-family: "Kavivanar", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
